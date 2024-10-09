@@ -26,5 +26,5 @@ Aplikasi dibangun dengan menggunakan :
 - sync project dengan gradle files
 - minimal versi sdk adalah sdk 21
 - Pada emulator gunakan API 30 agar program berjalan dengan optimal
-- (file apk bernama "E-Library.apk"
+- (file apk bernama "E-Library.apk")
 
